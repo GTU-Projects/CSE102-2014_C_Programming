@@ -1,0 +1,22 @@
+<Records>
+	<Patient>
+		<ID>5</ID>
+		<Name>Ali Veli</Name>
+		<History>Hist1.</History>
+	</Patient>
+	<Patient>
+		<ID>2</ID>
+		<Name>Fatma Zeki</Name>
+		<History>Hist2</History>
+	</Patient>
+	<Patient>
+		<ID>20</ID>
+		<Name>Name3</Name>
+		<History>ABABS</History>
+	</Patient>
+	<Patient>
+		<ID>1</ID>
+		<Name>MEN</Name>
+		<History>Hasan</History>
+	</Patient>
+</Records>

@@ -1,0 +1,14 @@
+          Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+Ali          80      30     100      40       5      60      70 
+Ayse         70      40      70      50      40      50      60 
+Fatma        60      50      40      70      50      40      80 
+Mehmet       50      70      30      60      80      30      50 
+
+The best employer of Monday:Ali     
+The best employer of Tuesday:Mehmet  
+The best employer of Wednesday:Ali     
+The best employer of Thursday:Fatma   
+The best employer of Friday:Mehmet  
+The best employer of Saturday:Ali     
+The best employer of Sunday:Fatma   
+The best employer of the week is Fatma   Congratulation Fatma   

@@ -1,0 +1,5 @@
+Enter the coefficients of the first poly(from A to C"AX^2+BX+C")=>Enter the coefficients of the second poly (from D to E"DX^2+EX+F")=>1st Poly is 5.00*x^2 + -2.00*x + 7.00 
+2nd Poly is 2.00*x^2 + 5.00*x + -5.00 
+
+The multiplication of polies => 
+ (10.0)X^4 + (21.0)X^3 + (-21.0)X^2 + (45.0)X + (-35.0)

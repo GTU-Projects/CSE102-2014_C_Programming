@@ -1,0 +1,8 @@
+Accepted Appointed File = Appointments.csv
+Delete File = hasan.txt
+Parameter File = Parameter.txt
+Patient  File = Patients.xml
+Readable Records File = Records.xml
+Records File = Records.bin
+Start WORK  = 9
+End  WORK  = 17
